@@ -6,7 +6,7 @@ console.log("person 5")
 
 //sync method can waiting for next output,Like one after another...
 
-
+//output:
 //PS C:\Users\gauri\OneDrive\Desktop\node-js> node synce.js
 //person 1
 //person 2
